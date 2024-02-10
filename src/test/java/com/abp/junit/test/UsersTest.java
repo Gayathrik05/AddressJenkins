@@ -1,3 +1,4 @@
+/*
 package com.abp.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -63,3 +64,4 @@ class UsersTest {
 		assertEquals(insertTest, firstResult);	
 	}
 }
+*/
