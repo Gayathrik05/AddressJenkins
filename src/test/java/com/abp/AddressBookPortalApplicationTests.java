@@ -1,3 +1,4 @@
+/*
 package com.abp;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -5,3 +6,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 class AddressBookPortalApplicationTests {
 	
 }
+*/
